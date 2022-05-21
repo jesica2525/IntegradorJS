@@ -1,0 +1,35 @@
+.imagenTexto {
+    background-image: url("./assets/ba1.jpg");
+    background-size: cover;
+    background-position: center center;
+    display: flex;
+    background-blend-mode: soft-light;
+    background-color: rgb(100,100,100);
+    justify-content: center;
+    align-items: center;
+    height: 40rem;
+  }
+
+  .textoMOD{
+      color: white;
+      font-size: 18px;
+  }
+
+.card {
+    margin: 1rem;
+  }
+
+.pagarBoton{
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+.textoBold{
+    font-weight:bold;
+}
+
+.colorBoton{
+    background-color: #84BE68;
+    color: white
+}
+
